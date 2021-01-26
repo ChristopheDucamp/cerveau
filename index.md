@@ -1,9 +1,9 @@
-# Neuron Template
+# Modèle Neurone
 
-You are viewing a template site, generated from [neuron-template](https://github.com/srid/neuron-template) and published by [neuron](https://neuron.zettel.page/). [GitHub Pages](https://pages.github.com/) is used to automatically publish this site every time the underlying Git repository gets updated.
+Vous êtes en train de voir un site modèle généré à partir de [neuron-template](https://github.com/srid/neuron-template) et publié par [neuron](https://neuron.zettel.page/). [GitHub Pages](https://pages.github.com/) est utilisé pour publier automatiquement ce site à chaque fois que le repo Git sous-jacent est misà jour.
 
-Get started by reading [[README]]#.
+Démarrez en lisant [[README]]#.
 
-Other pages on this zettelkasten:
+Autres pages sur ce zettelkasten :
 
 - [[faq]]#
