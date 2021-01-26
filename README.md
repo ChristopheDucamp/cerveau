@@ -1,14 +1,14 @@
-# How to publish your own [neuron] site
+# Comment publier votre propre site [neuron]
 
-[neuron] is a note-taking app optimized for publishing. Use this template repository to get started with [publishing](https://neuron.zettel.page/778816d3.html) your own neuron site that looks like [one of these][examples].
+[neuron] est une app de prise de notes optimisée pour la publication. Utilisez ce dossier de modèles pour démarrer avec la  [publication](https://neuron.zettel.page/778816d3.html) de votre propre site neuron qui ressemblera à [un ce ces][examples].
 
-- Go to <https://github.com/srid/neuron-template/generate>
-- Give your new repository a name, say `mynotes`
-- Select "*Include all branches*" ([might be necessary to get the site to publish](https://stackoverflow.com/a/47368231/55246))
-- Click "Create repository from template"
-  - Note: if you are on the free GitHub plan, your repository should be public for GitHub to publish it.
+- Allez sur <https://github.com/srid/neuron-template/generate>
+- Donnez un nom à votre nouveau dépôt, disons `mesnotes`
+- Sélectionnez "*Include all branches*" ([pourrait être nécessaire pour que le site soit publié](https://stackoverflow.com/a/47368231/55246))
+- Cliquez sur "Create repository from template"
+  - Note : si vous êtes sur plan GitHub gratuit, votre dépôt devrait être public afin que GitHub le pubie.
 
-GitHub will now build the site and serve it at: `https://<yourgithubusername>.github.io/mynotes/`.
+GitHub construira maintenant le site et le servira sous : `https://<yourgithubusername>.github.io/mesnotes/`.
 
 For more information, see [neuron documentation][neuron] as well as the [GitHub Pages guide](https://help.github.com/en/github/working-with-github-pages).
 
