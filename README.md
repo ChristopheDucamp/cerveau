@@ -10,7 +10,7 @@
 
 GitHub construira maintenant le site et le servira sous : `https://<yourgithubusername>.github.io/mesnotes/`.
 
-For more information, see [neuron documentation][neuron] as well as the [GitHub Pages guide](https://help.github.com/en/github/working-with-github-pages).
+Pour plus d'informations, regardez la [documentation neuron][neuron] tut comme le [guide GitHub Pages](https://help.github.com/en/github/working-with-github-pages).
 
 ## Réglez les métadonnées de votre site
 
